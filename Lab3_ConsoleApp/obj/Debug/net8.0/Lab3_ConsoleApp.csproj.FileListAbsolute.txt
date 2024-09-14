@@ -1,0 +1,15 @@
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/bin/Debug/net8.0/Lab3_ConsoleApp
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/bin/Debug/net8.0/Lab3_ConsoleApp.deps.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/bin/Debug/net8.0/Lab3_ConsoleApp.runtimeconfig.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/bin/Debug/net8.0/Lab3_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/bin/Debug/net8.0/Lab3_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.AssemblyInfoInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.AssemblyInfo.cs
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.sourcelink.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/refint/Lab3_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/Lab3_ConsoleApp.genruntimeconfig.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_3/Lab3_ConsoleApp/obj/Debug/net8.0/ref/Lab3_ConsoleApp.dll
